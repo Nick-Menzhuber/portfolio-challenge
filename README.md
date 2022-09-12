@@ -10,9 +10,11 @@ N/A
 
 ## Usage
 
-URL:[https://nick-menzhuber.github.io/Horiseon-2/](https://nick-menzhuber.github.io/Horiseon-2/)
+URL:[https://nick-menzhuber.github.io/portfolio-challenge/](https://nick-menzhuber.github.io/portfolio-challenge/)
 
 Click the links in the top nav bar to be taken to a section of the page. Click the images to be linked to the projects (currently placeholders).
+
+![Screenshot:](/assets/images/portfolio-screenshot-1.png)
 
 ## Credits
 
