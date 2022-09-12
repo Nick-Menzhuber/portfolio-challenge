@@ -1,0 +1,128 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #f2f2f2
+}
+
+header {
+    display: flex;
+    background-color: #00091a;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    width: 100%;
+}
+
+header h1 {
+    font-size: 60px;
+    padding: 10px 15px 10px 60px;
+    margin: 10px 10px 10px 0px;
+    background-color: #adebeb;
+    color: #00091a;
+    display: flex;
+}
+
+header nav ul {
+    display:flex;
+    width:100%;   
+}
+
+header nav ul li {
+    color: #adebeb;
+    font-size: 20px;
+    text-decoration: underline;
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+}
+
+header a:link {
+    color:#adebeb;
+}
+
+header a:visited {
+    color: #adebeb;
+}
+
+
+#sub-head {
+    background-image: url(https://images.pexels.com/photos/6810900/pexels-photo-6810900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: 100%;
+    line-height: 3in;
+    margin-top: 0;
+    padding: 0;
+    border: 0;
+}
+
+#sub-head h2 {
+    color: #00091a;
+    display:flex;
+}
+
+section {
+    display:flex;
+    margin:10;
+    position: relative;
+}
+
+/* #work div a img {
+    width:100px;
+    height:100px;
+} */
+
+#full div a img {
+    width: 80%;
+}
+#half #firstStack {
+   display: flex;
+}
+
+#half #secondStack {
+    display: flex;
+}
+
+#half div a img {
+    width: 60%;
+}
+
+#portfolioImgs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* img {
+    width: 20px;
+    height: 20px;
+} */
+
+#about-me,
+#work,
+#contact-me {
+    display: flex;
+    border-right:5px;
+    border-right-color: #00091a;
+    margin: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    color: #00091a;
+    justify-content: space-between;
+}
+
+#about-me p {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+#phone-number {
+    font-size: 20px;
+    color: #00091a;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #000033;
+    font-size: 50px;
+}
